@@ -1,0 +1,25 @@
+I learned that I like Git Bash, and I can use notepad with it, but
+I cannot use notepad++ or Sublime. This is going to be interesting. Boom.
+
+I think it's cool that you can look up previous versions on Googledocs by 
+going to the top of the browser and clicking on "..made last edit" and 
+then it shows the previous versions! 
+
+There are many different ways to conduct version control; some of them
+are not helpful to programmers, but at least there are ways to 
+save files (iteratively). 
+
+I've just learned how to determine when / how often to git commit. It seems like
+it's important for logical errors to have their own commit. It also seems like there 
+is a common sense way not "over-commit" or "under-commit". 
+
+I think Git allows saving multiple files in one commit because it's more of an 
+automated/scaled task. Google docs, although helpful, is not meant for this task.
+
+One thing I liked about using Git so far was being able to use Git log and also
+see how many changes were done per file. 
+
+So, I figured out how to see which commit had the error by using git diff. It was cool.
+
+How do I want to use git? I want to start using it for my own work as 
+an individual student. I think that would be great. 
