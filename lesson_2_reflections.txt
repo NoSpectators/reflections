@@ -8,16 +8,17 @@ directory and the repository. It allows a programmer to add one/some
 of the files to the repository instead of committing all the files at
 once (the goal is to add a file to the repository every logical change).
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+--Once I make a change in the working directory, I do a git status, and notice a file has been modified. Then I use git add to put it in the staging area. Then I use git diff to compare the status of working directory and staging area, and git diff --staged to check status of staging area compared to repository. 
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+--this idea of branching is really cool. I can see it being very helpful when new ideas (different from a small syntactical change) to code would be introduced. cool. 
 
 How do the diagrams help you visualize the branch structure?
+-diagrams help visualize the branch structure by showing the parents and children of the commits. That way I can see what is accessible through git log and potentially how I can lose a commit. This is worth going over a few times. 
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+--the result was that two branches were merged, and their commits in git log will be merged, though not with the parents of the commit; rather by the timestamp. 
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
