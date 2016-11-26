@@ -20,5 +20,5 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 --the result was that two branches were merged, and their commits in git log will be merged, though not with the parents of the commit; rather by the timestamp. 
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+-the cons are that you have to do the manual work; the pros are that Git makes the developer figure it out and doesn't merge things it shouldn't. this is great. 
