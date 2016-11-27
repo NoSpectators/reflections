@@ -12,4 +12,7 @@ machine.
 -branches are used to introduce a new feature in a project on my machine
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
--if you are traveling/collaboration
+--if you are traveling/collaboration
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+--if i were to collaborate without Github i would use googledrive for sure. 
