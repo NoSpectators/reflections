@@ -10,3 +10,6 @@ Describe the differences between forks, clones, and branches. When would you use
 -clones are used to clone another repository from Github to my local
 machine.
 -branches are used to introduce a new feature in a project on my machine
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+-if you are traveling/collaboration
